@@ -1,21 +1,19 @@
 # Project 3: Spots
 
-### Overview  
+A site where users can come and share photos with descriptions and create a tasteful profile. 
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## Photo sharing on any devivce type
+
+The page was built with a primary focus on making it dynamic to fit multiple screen sizes using media queries alowing for a responsive design. With imported custom fonts and images to be displayed. Text overflow hidden so that the page is nice and neat without mountains of text being displayed. 
+
+## Text Stack
+
+- HTML
+- CSS
+- BEM Methodology
+- Accessibility 
+- Responsive Design 
+
+## Deployment 
+
+- Deployment Link: 
