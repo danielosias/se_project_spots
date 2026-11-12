@@ -22,5 +22,5 @@ https://danielosias.github.io/se_project_spots/
 
 ## Project Pitch Video
  
- Check out [this video]([ADD_LINK_HERE](https://drive.google.com/file/d/1eX_J5glorLcRCliRnY4gac4x_7Oq6IbZ/view?usp=sharing)), where I describe my 
+ Check out [this video](https://drive.google.com/file/d/1eX_J5glorLcRCliRnY4gac4x_7Oq6IbZ/view?usp=sharing), where I describe my 
  project and some challenges I faced while building it.
